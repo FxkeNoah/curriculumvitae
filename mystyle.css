@@ -26,18 +26,10 @@ h1 {
     background: gray;
 }
 
-.kontakt {
-    color:  blue;
+.red {
+    color:  red;
 }
 
-.sprachen {
-    color: blue;
-}
-
-.hobbies {
-    color: blue;
-}
-
-.ort-datum {
+.name {
     color: blue;
 }
