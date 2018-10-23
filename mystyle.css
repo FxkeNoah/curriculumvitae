@@ -1,0 +1,43 @@
+
+h1 {
+    font-family: Lobster, monospace;
+}
+
+.container {
+}
+
+.ueberschrift {
+    text-align: center;
+}
+
+.flex-columns {
+    display: flex;
+}
+
+.flex-columns > div {
+    width: 100%;
+}
+
+.neues-div {
+    background: gray;
+}
+
+.neues-div2 {
+    background: gray;
+}
+
+.kontakt {
+    color:  blue;
+}
+
+.sprachen {
+    color: blue;
+}
+
+.hobbies {
+    color: blue;
+}
+
+.ort-datum {
+    color: blue;
+}
