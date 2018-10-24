@@ -1,21 +1,24 @@
 
 h1 {
-    font-family: Lobster, monospace;
+    font-family: 'Raleway', sans-serif;
 }
 
-.container {
+body {
+    font-family: 'Raleway', sans-serif;
 }
 
 .ueberschrift {
     text-align: center;
+    color: green;
+}
+
+.ueberschrift2 {
+    text-align: center;
+    color: green;
 }
 
 .flex-columns {
     display: flex;
-}
-
-.flex-columns > div {
-    width: 100%;
 }
 
 .neues-div {
@@ -26,10 +29,65 @@ h1 {
     background: gray;
 }
 
-.red {
-    color:  red;
+.name {
+    color: gray;
 }
 
-.name {
-    color: blue;
+.rechts {
+    color: black;
 }
+
+.links {
+    color: black;
+}
+
+.leben {
+    color: lightgray;
+}
+
+.lauf {
+    color: lightgray;
+}
+
+.row-1 {
+    height: 300px;
+}
+
+.row-2 {
+    height: 150px;
+}
+
+.row-3 {
+    height: 200px;
+}
+
+.unten {
+    text-align: center;
+    color: green;
+    }
+
+.ueberschrift3 {
+    text-align: center;
+    color: gray;
+}
+
+.right-section {
+    width: 100%;
+}
+
+.left-section {
+    text-align: right; 
+    border-right: 1px solid lightgray; 
+    margin-right: 20px; 
+    padding-right: 20px;
+    width: 100%;
+}
+
+.margin-left {
+    margin-left: 2px;
+}
+
+.skill-names {
+    width: 20%;
+}
+
