@@ -37,13 +37,6 @@ body {
     color: gray;
 }
 
-.rechts {
-    color: black;
-}
-
-.links {
-    color: black;
-}
 
 .leben {
     color: lightgray;
@@ -58,11 +51,11 @@ body {
 }
 
 .row-2 {
-    height: 150px;
+    height: 120px;
 }
 
 .row-3 {
-    height: 200px;
+    height: 150px;
 }
 
 .unten {
@@ -75,16 +68,9 @@ body {
     color: gray;
 }
 
-.right-section {
-    width: 100%;
-}
-
 .left-section {
     text-align: right; 
     border-right: 1px solid lightgray; 
-    margin-right: 20px; 
-    padding-right: 20px;
-    width: 100%;
 }
 
 .margin-left {
