@@ -21,6 +21,10 @@ body {
     display: flex;
 }
 
+.flex-aligh-right {
+    justify-content: flex-end;
+}
+
 .neues-div {
     background: gray;
 }
@@ -91,3 +95,10 @@ body {
     width: 20%;
 }
 
+.skill-rating {
+    color: black;
+}
+
+.sprach-rating {
+    width: 20%;
+}
