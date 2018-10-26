@@ -47,17 +47,17 @@ body {
 }
 
 .row-1 {
-    height: 250px;
-    font-family: 'Raleway', sans-serif;
-}
-
-.row-2 {
     height: 200px;
     font-family: 'Raleway', sans-serif;
 }
 
+.row-2 {
+    height: 120px;
+    font-family: 'Raleway', sans-serif;
+}
+
 .row-3 {
-    height: 150px;
+    height: 120px;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -106,4 +106,9 @@ body {
     .left-section {
         text-align: left;
     }
+ }
+
+ .uebercolor {
+     color: red;
+     font-family: 'Raleway', sans-serif;
  }
