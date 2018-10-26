@@ -105,6 +105,7 @@ body {
 @media (max-width: 767.98px) { 
     .left-section {
         text-align: left;
+        border: none;
     }
  }
 
@@ -129,4 +130,12 @@ body {
 
   .smaller-image:hover {
       filter: none;
+  }
+
+  .container {
+      margin-top: 1%;
+  }
+
+  .fett {
+    font-weight: bold;
   }
