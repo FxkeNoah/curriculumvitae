@@ -47,15 +47,18 @@ body {
 }
 
 .row-1 {
-    height: 300px;
+    height: 250px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .row-2 {
-    height: 120px;
+    height: 200px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .row-3 {
     height: 150px;
+    font-family: 'Raleway', sans-serif;
 }
 
 .unten {
@@ -88,3 +91,19 @@ body {
 .sprach-rating {
     width: 20%;
 }
+
+.color {
+    color: lightsalmon;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ueber {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+@media (max-width: 767.98px) { 
+    .left-section {
+        text-align: left;
+    }
+ }
