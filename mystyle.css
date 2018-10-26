@@ -124,4 +124,9 @@ body {
 
   .smaller-image {
     width: 100px;
+    filter: grayscale(100%);
+  }
+
+  .smaller-image:hover {
+      filter: none;
   }
