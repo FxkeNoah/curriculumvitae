@@ -57,7 +57,7 @@ body {
 }
 
 .row-3 {
-    height: 120px;
+    height: 150px;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -109,6 +109,19 @@ body {
  }
 
  .uebercolor {
-     color: red;
+     color: black;
      font-family: 'Raleway', sans-serif;
  }
+
+ .thick-green-border {
+    border-color: gray;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50%;
+    margin-bottom: 3%;
+    margin-top: 1.5%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
